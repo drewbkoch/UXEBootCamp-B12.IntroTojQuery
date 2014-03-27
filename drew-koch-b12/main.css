@@ -163,6 +163,16 @@ progress{
   display: inline-block;
 }
 
+fieldset {
+  border: 0;
+}
+
+.contact-us ul li {
+  display: inline;
+  padding: 30px;
+}
+
+
 
 footer {
   -webkit-flex-flow: row nowrap;
